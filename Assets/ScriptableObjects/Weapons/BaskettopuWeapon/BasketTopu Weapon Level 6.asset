@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b29fd4e63d83944b12880be67e1f74, type: 3}
+  m_Name: BasketTopu Weapon Level 6
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2624283290103426258, guid: 44ac0dd9a44bdef4ba0e5324e1c52bdc, type: 3}
+  damage: 10
+  speed: 10
+  amount: 2
+  cooldownDuration: 1.7
+  pierce: 2
+  level: 6
+  nextLevelPrefab: {fileID: 0}
+  weaponName: Basket Topu Son Seviye
+  description: 'Hasar: 5 => 10'
+  icon: {fileID: -1324433585, guid: 3954761391b10c247bdd78f9f72c82df, type: 3}

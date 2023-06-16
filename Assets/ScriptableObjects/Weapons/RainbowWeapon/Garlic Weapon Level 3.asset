@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b29fd4e63d83944b12880be67e1f74, type: 3}
+  m_Name: Garlic Weapon Level 3
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6880134671126484914, guid: 96db513e40de04047891a5c664745d4f, type: 3}
+  damage: 0
+  speed: 0
+  amount: 0
+  cooldownDuration: 0
+  pierce: 0
+  level: 3
+  nextLevelPrefab: {fileID: 5058664485641539207, guid: f7fc527986a0a0d489d3d4705690d2a6, type: 3}
+  weaponName: "G\xF6kku\u015Fa\u011F\u0131 Kalkan\u0131 1. Seviye"
+  description: 
+  icon: {fileID: 1475502211, guid: fb136c101009e0c4a99d6c0f6c923bff, type: 3}

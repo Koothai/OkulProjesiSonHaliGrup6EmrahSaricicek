@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f021dd8e23a27f24798daf4c1e093ef0, type: 3}
+  m_Name: SpinachPassiveItem Level 3
+  m_EditorClassIdentifier: 
+  multiplier: 15
+  level: 3
+  nextLevelPrefab: {fileID: 6438919624496944654, guid: cb6d3c6c4a342da48b5db26268cdec9f, type: 3}
+  passiveItemName: Ispanak 3. Seviye
+  description: "Hasar\u0131n\u0131 %15 artt\u0131r\u0131r."
+  icon: {fileID: -1555054048, guid: 4e5aceece4d8b7648b35737c749370a0, type: 3}

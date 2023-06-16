@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eadbc14d2d56c5a4b839d5a73f714010, type: 3}
+  m_Name: Naz
+  m_EditorClassIdentifier: 
+  characterName: Naz
+  characterSprite: {fileID: -247898026, guid: 74c0fc7fb9168424cab380513684dde9, type: 3}
+  characterAnimator: {fileID: 9100000, guid: 63493f9c2b2681a4badf0d671e193c59, type: 2}
+  startingWeapon: {fileID: 9045793462522753061, guid: f0c88eeb9d1ba244aafb0c5f5f2fa1a5, type: 3}
+  maxHealth: 10
+  recovery: 1
+  moveSpeed: 5
+  armor: 1
+  pierceAddend: 1
+  damageMultiplier: 1
+  amountAddend: 1
+  cooldownReduction: 1
+  areaMultiplier: 1
+  critChance: 1
+  projectileSpeedMultiplier: 1
+  magnet: 1

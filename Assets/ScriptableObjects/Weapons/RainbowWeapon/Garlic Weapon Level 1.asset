@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b29fd4e63d83944b12880be67e1f74, type: 3}
+  m_Name: Garlic Weapon Level 1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6880134671126484914, guid: 64ffd9e467b808d4b86b184fbbad5182, type: 3}
+  damage: 5
+  speed: 0
+  amount: 1
+  cooldownDuration: 3
+  pierce: 0
+  level: 1
+  nextLevelPrefab: {fileID: 5058664485641539207, guid: 05632ae8669091843a17c3e7f4af01a6, type: 3}
+  weaponName: "G\xF6kku\u015Fa\u011F\u0131 Kalkan\u0131 1. Seviye"
+  description: HAPPY PRIDE MONTHS
+  icon: {fileID: 1475502211, guid: fb136c101009e0c4a99d6c0f6c923bff, type: 3}

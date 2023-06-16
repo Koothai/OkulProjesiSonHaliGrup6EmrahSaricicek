@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b29fd4e63d83944b12880be67e1f74, type: 3}
+  m_Name: FireBallWeapon Level 4
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1088516870507742488, guid: 44b90d086d37a2045ad7abdf3ed0bcdc, type: 3}
+  damage: 5
+  speed: 12
+  amount: 2
+  cooldownDuration: 2
+  pierce: 2
+  level: 4
+  nextLevelPrefab: {fileID: 9045793462522753061, guid: 8e0d451da5c083b4fbabc3f16011675f, type: 3}
+  weaponName: "Ate\u015F Topu 4.Seviye"
+  description: "Delici: 1 => 2 (Delici: Ka\xE7 tane d\xFC\u015Fmana vurduktan sonra
+    yok olaca\u011F\u0131n\u0131 g\xF6steren \xF6zellik.)"
+  icon: {fileID: -21124519, guid: 94722d479e8835542bfd2d59aa2686bb, type: 3}

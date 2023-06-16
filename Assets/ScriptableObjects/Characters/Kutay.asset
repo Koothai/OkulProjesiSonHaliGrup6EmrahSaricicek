@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eadbc14d2d56c5a4b839d5a73f714010, type: 3}
+  m_Name: Kutay
+  m_EditorClassIdentifier: 
+  characterName: Kutay
+  characterSprite: {fileID: -1687805366, guid: d7cdebbe29dd19546a705ec2c9ae26ea, type: 3}
+  characterAnimator: {fileID: 9100000, guid: 545bc4f1c6462f741b506f202999338e, type: 2}
+  startingWeapon: {fileID: 5058664485641539207, guid: f8df2bbb2664dcc40aaf715a97dd2d09, type: 3}
+  maxHealth: 10
+  recovery: 1
+  moveSpeed: 15
+  armor: 1
+  pierceAddend: 1
+  damageMultiplier: 1
+  amountAddend: 1
+  cooldownReduction: 1
+  areaMultiplier: 1
+  critChance: 1
+  projectileSpeedMultiplier: 1
+  magnet: 1

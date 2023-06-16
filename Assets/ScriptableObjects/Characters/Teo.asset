@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eadbc14d2d56c5a4b839d5a73f714010, type: 3}
+  m_Name: Teo
+  m_EditorClassIdentifier: 
+  characterName: Teoman
+  characterSprite: {fileID: -91089317, guid: 900d03a1238ec2e458712b0b96ce4e9f, type: 3}
+  characterAnimator: {fileID: 9100000, guid: 5e42ab2a99c787a4fa67222cde6fde6b, type: 2}
+  startingWeapon: {fileID: 9177202353394908836, guid: 4d50fac1c0bebda458b45703f7385745, type: 3}
+  maxHealth: 10
+  recovery: 1
+  moveSpeed: 5
+  armor: 1
+  pierceAddend: 1
+  damageMultiplier: 1
+  amountAddend: 1
+  cooldownReduction: 1
+  areaMultiplier: 1
+  critChance: 1
+  projectileSpeedMultiplier: 1
+  magnet: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b29fd4e63d83944b12880be67e1f74, type: 3}
+  m_Name: FireBallWeapon Level 3
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1088516870507742488, guid: 1f7d607bec407ac4aa5c193d5a7dd272, type: 3}
+  damage: 5
+  speed: 12
+  amount: 2
+  cooldownDuration: 2
+  pierce: 1
+  level: 3
+  nextLevelPrefab: {fileID: 9045793462522753061, guid: 35ea54d1a42fc47418793f3b252799da, type: 3}
+  weaponName: "Ate\u015F Topu 3.Seviye"
+  description: 'Adet: 1 => 2   '
+  icon: {fileID: -21124519, guid: 94722d479e8835542bfd2d59aa2686bb, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f021dd8e23a27f24798daf4c1e093ef0, type: 3}
+  m_Name: WingPassiveItem Level 5
+  m_EditorClassIdentifier: 
+  multiplier: 25
+  level: 5
+  nextLevelPrefab: {fileID: 705392641831358351, guid: 9cb73386fd0c2cd4e8de6482c65c702c, type: 3}
+  passiveItemName: Kanatlar 5. Seviye
+  description: "Karakterin hareket h\u0131z\u0131n\u0131 %25 artt\u0131r\u0131r."
+  icon: {fileID: 21300000, guid: 7878cf09a9d6c704880e83c60edbc06f, type: 3}
